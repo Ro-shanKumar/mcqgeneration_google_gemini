@@ -1,0 +1,10 @@
+openai
+langchain
+pandas
+langchain_google_genai
+python-dotenv
+streamlit
+pillow 
+PyPDF2
+
+-e .
