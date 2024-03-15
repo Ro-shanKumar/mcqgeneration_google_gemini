@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1
+Summary: A package for generating AI based content
+Author: Roshan kumar
+Author-email: roshankumarredmi@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain_google_genai
+Requires-Dist: pillow
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: PyPDF2

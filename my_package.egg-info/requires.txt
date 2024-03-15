@@ -1,9 +1,7 @@
 openai
 langchain
 langchain_google_genai
+pillow
 python-dotenv
 streamlit
-pillow 
 PyPDF2
-
--e .
